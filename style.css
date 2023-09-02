@@ -256,27 +256,27 @@ section {
 
 section#home {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-concrete_1258-48225.jpg?w=2000&t=st=1693666331~exp=1693666931~hmac=9a3897cf997f8227a8be504411f2decef087f65be0dbcdbd06c671e503add3f1") no-repeat center center / cover;
+        url("background.jpeg") no-repeat center center / cover;
 }
 
 section#sicak {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-concrete_1258-48225.jpg?w=2000&t=st=1693666331~exp=1693666931~hmac=9a3897cf997f8227a8be504411f2decef087f65be0dbcdbd06c671e503add3f1") no-repeat center center / cover;
+        url("background.jpeg") no-repeat center center / cover;
 }
 
 section#soguk {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-concrete_1258-48225.jpg?w=2000&t=st=1693666331~exp=1693666931~hmac=9a3897cf997f8227a8be504411f2decef087f65be0dbcdbd06c671e503add3f1") no-repeat center center / cover;
+        url("background.jpeg") no-repeat center center / cover;
 }
 
 section#tatli {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-concrete_1258-48225.jpg?w=2000&t=st=1693666331~exp=1693666931~hmac=9a3897cf997f8227a8be504411f2decef087f65be0dbcdbd06c671e503add3f1") no-repeat center center / cover;
+        url("background.jpeg") no-repeat center center / cover;
 }
 
 section#saat {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-concrete_1258-48225.jpg?w=2000&t=st=1693666331~exp=1693666931~hmac=9a3897cf997f8227a8be504411f2decef087f65be0dbcdbd06c671e503add3f1") no-repeat center center / cover;
+        url("background.jpeg") no-repeat center center / cover;
 }
 
 .center {
