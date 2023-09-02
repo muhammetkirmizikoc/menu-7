@@ -65,7 +65,7 @@ a:visited {
 /* NAV MENU ITEMS */
 nav ul {
     height: 100vh;
-    height: 100svh;
+    height: 100vh;
     list-style: none;
     z-index: 9999999999;
 }
